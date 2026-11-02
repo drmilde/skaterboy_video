@@ -38,14 +38,14 @@ Teil 2 kippt die Perspektive auf **sie**: Was wie der Sieg aussah (Ehe, Haus, St
 
 1. **Exposition (Intro 0:00–0:12):** Die Großstadt wacht auf. Johnny skatet durch den Morgen; parallel: Blair im Ballettstudio und im Penthouse. Zwei Welten, eine Skyline.
 2. **Johnnys Welt (Verse 1, 0:12–0:24):** Halfpipe, Spott im Flur (Trent), Mensa-Einsamkeit bis Mickey sich dazusetzt, Graffiti-Underpass, erster Garagen-Akkord.
-3. **Der Crush (Pre, 0:24–0:30):** Klassenfenster-POV auf Blair aufs Schulhof, das Tape in der Hand, der Mut: Er hält vor ihr an und reicht ihr das Tape.
+3. **Der Crush (Pre, 0:24–0:30):** Klassenfenster-POV auf Blair, die über den Schulhof geht; das Tape in der Hand; der Mut: Er hält vor ihr an und reicht ihr das Tape.
 4. **Parallele Welten (Chorus 1, 0:30–0:52):** Ihr kalter Blick fällt mit dem Chorus-Einsatz. Dann Ping-Pong-Schnitt: Ollie vs. Pirouette, Sprühdose vs. Wimperntusche, Imbiss-Crew vs. Candle-Light-Dinner mit Mutter, Garage vs. Rezital. Schlussbild: Blair am Fenster – sie sieht in der Ferne eine Skater-Silhouette.
 5. **Die Abfuhr (Verse 2, 0:52–1:15):** Er wartet nach der Ballettstunde, übergibt das Tape („Side A – for you"). Sie: „Unsere Welten reimen sich nicht." Limousine, Kylies Spott, Regen, zwei Slow-Mo-Entladungscuts in der Bowl.
 6. **Atempause (1:15–1:18.3):** Garagen-Dunkelheit, Bombs Count-off – die Band zündet exakt zum Loudness-Sprung bei 78,3 s.
 7. **Trotz (Chorus 2, 1:18.3–1:43):** Club-Gig, Crowd, Graffiti-Herz „J♥B"; sie beim Debutanten-Blitzlicht, allein am Klavier – findet den Club-Flyer, wirft ihn *nicht* weg, legt ihn in die Schublade. Lokales Nacht-TV: Er sieht sich selbst, grinsend (TV-Motiv-Foreshadowing).
-8. **Aufstieg (Coda, 1:43–2:08.6):** montage über die Jahre: Encore-Blumen, Demo am Plattenladen-Theke, Chart-Plakat, Tour-Van, Arena-Lichtermeer – gegen geschnittene Blicke in ihr unverändertes Leben (Supermarkt, Brautmagazin, Regen-Haltestelle). Das alte „J♥B"-Graffiti wird übermalt – Zeit verstreicht.
+8. **Aufstieg (Coda, 1:43–2:08.6):** Montage über die Jahre: Encore-Blumen, Demo am Plattenladen-Tresen, Chart-Plakat, Tour-Van, Arena-Lichtermeer – gegen geschnittene Blicke in ihr unverändertes Leben (Supermarkt, Brautmagazin, Regen-Haltestelle). Das alte „J♥B"-Graffiti wird übermalt – Zeit verstreicht.
 
-### Zwischenteil – Zeitbruch (2:08.6–2:22.6, leiseeste Songstelle)
+### Zwischenteil – Zeitbruch (2:08.6–2:22.6, leiseste Songstelle)
 
 Jahrbuch-Blätter „Class of 1996" → U-Bahn-Türen als Zeitportal-Matchcut → Titelkarte **TEN YEARS LATER** über Vorstadt-Glide → Blair (34), Küche, Ehering-Glanz; Gatte Chad fährt zur Golfwoche, Tür. Blair versinkt im Sessel vor dem alten Röhrenfernseher – der Daumen drückt die Fernbedienung, Schwarzbild **unmittelbar vor** dem Final-Einsatz.
 
@@ -62,7 +62,7 @@ Outro (auf dem letzten Hit 2:47.2 + Reverb-Tail): Blairs einzelne Träne, ein tr
 **Rolle im Video:** Identifikationsfigur und Erzähler des Songs. Talentierter Außenseiter: Skateboard, Gitarre, Graffiti. Er verliert das Mädchen, nicht sich selbst, und wird Rockstar. ~33 Einstellungen als Teenager, ~6 als Erwachsener (plus TV-/Silhouettenmaterial).
 
 **Teen (16, Teil 1):**
-- Schlank-sehnig, 1,75 m, eckige Schultern,never gerade Haltung, aber nie bucklig.
+- Schlank-sehnig, 1,75 m, eckige Schultern, nachlässige Haltung, aber nie bucklig.
 - Dunkelbraunes, widerspenstiges, halblanges Haar, immer **ein weiß/blond gebleichter Strähn im Pony** (Konsistenz-Anker #1). Links **ein kleiner Silberreifen** am Ohr, rechtes Ohr frei.
 - Schmales Gesicht, abstehende Ohren, Sommersprossen auf Nasenrücken, kleine **Narbe an der linken Augenbraue** (Skate-Unfall; Anker #2).
 - Outfit-Lock (Teil 1): schwarzes Band-Shirt („The Sidewalk Saints", eigener Aufdruck), rot-schwarzes kariertes Flanellhemd offen darüber, zerrissene schwarze Jeans, **rote Vans Slip-Ons** (Anker #3), rotes Stoff-Armband links. Schwarze Basecap, rückwärts (Anker #4).
@@ -70,7 +70,7 @@ Outro (auf dem letzten Hit 2:47.2 + Reverb-Tail): Blairs einzelne Träne, ein tr
 - Vibe: lächelt zu spät, immer einen Spruch voraus; die Hände erzählen mehr als das Gesicht.
 
 **Adult (34, Teil 2/Finale):**
-- Dieselbe Gesichtsstruktur (LoRA-Ast „adult"), Kurzbar mit Stoppel, das Strähn jetzt **komplett weiß an der Schläfe** (Zeitanzeige fürs Publikum), Narbe Augenbraue bleibt.
+- Dieselbe Gesichtsstruktur (LoRA-Ast „adult"), kurzer Bart mit Stoppeln, das Strähn jetzt **komplett weiß an der Schläfe** (Zeitanzeige fürs Publikum), Narbe Augenbraue bleibt.
 - Schwarze Lederjacke über demselben Band-Shirt von damals (emotionaler Callback!), dieselben abgenutzten roten Vans. Silberreifen immer noch links.
 - Haltung: entspannt, etabliert; das Lächeln jetzt echt.
 
@@ -81,10 +81,10 @@ Outro (auf dem letzten Hit 2:47.2 + Reverb-Tail): Blairs einzelne Träne, ein tr
 **Rolle im Video:** Nicht Bösewichtin, sondern Gegenentwurf: Disziplin, Status, Kälte als Sozialisierung. In Teil 2 wird sie zur tragischen Figur des Videos – das Identifikationsangebot für den Zuschauer in der Lebensmitte. ~16 Einstellungen Teen, ~9 als Erwachsene.
 
 **Teen (16):**
-- Groß und schlank (1,72 m), klassische Ballettphysik: langer Hals, aufrechte „Fadenkreuz"-Haltung.
-- **Platinblondes, glattes, langes Haar**, strenger Mittelscheitel; im Studio zum straffen Bun (Anker #1). **Eisblaue Augen** (Anker #2). **Kleines Muttermal über der linken Lippenecke** (Anker #3).
+- Groß und schlank (1,72 m), klassische Ballettphysik: langer Hals, aufrechte, kerzengerade Haltung.
+- **Platinblondes, glattes, langes Haar**, strenger Mittelscheitel; im Studio zum straffen Dutt (Anker #1). **Eisblaue Augen** (Anker #2). **Kleines Muttermal über der linken Lippenecke** (Anker #3).
 - Outfit-Lock (Schule): lavendelfarbener Kaschmir-Cardigan über weißem Blusentop, schwarze Strumpfhose, schwarze Lackpumps, **Perlenkette** (Anker #4, bleibt ein Leben lang). Abfuhr-Szene: camel-farbener Wollmantel, Seidenschal.
-- Tanzstudio: lilafarbenes Leibchen, rosa Chiffonröckchen, Spitzenschläppchen, Bun.
+- Tanzstudio: lilafarbenes Leibchen, rosa Chiffonröckchen, Spitzenschuhe, Dutt.
 - Vibe: beherrscht jede Bewegung, auch den Blick; ihre Kälte ist einstudiert – in den Augen liegt Langeweile, nicht Bosheit.
 
 **Adult (34):**
@@ -174,7 +174,7 @@ Zu jeder Location: 2–3 **Location-Plates** (leere Establishing-Render) als Gru
 | S01 | 0:00.0–0:02.4 | 2.4 | EWS | Hoch über Dächern („Helikopter"-Stativhöhe) → langsamer Push-in | Gegenlicht: tiefstehende Morgensonne hinter Skyline, oranger Dunst | Stadt wacht auf; noch ruhig (Musik: Intro-Fläche bis 5,6 s) |
 | S02 | 0:02.4–0:04.8 | 2.4 | ECU | Bodenlevel, Objektiv auf Asphalt → Truck left, Board rollt ins Bild | hartes Morgenlicht seitlich links, lange Schatten | rote Vans + Smile-Flame-Deck rollen an (JH-y Anker-Props zuerst!) |
 | S03 | 0:04.8–0:07.2 | 2.4 | WS | Straße, frontale Position auf Boardhöhe → Rückwärts-Tracking (fährt auf Kamera zu) | Gegenlicht Sonne, Rim | JH-y skatet; Cap rückwärts, Strähn sichtbar – **Band-Einsatz 5,6 s liegt in diesem Cut** |
-| S04 | 0:07.2–0:09.6 | 2.4 | MS | Ballettstudio, Spiegelposition → langslow Dolly right | warmes Fensterlicht von links | BL-y an der Barre, Bun; Spiegel öffnet Raumtiefe |
+| S04 | 0:07.2–0:09.6 | 2.4 | MS | Ballettstudio, Spiegelposition → langsame Dolly right | warmes Fensterlicht von links | BL-y an der Barre, Dutt; Spiegel öffnet Raumtiefe |
 | S05 | 0:09.6–0:12.0 | 2.4 | MLS | Penthouse, innen → Push-in Richtung Fenster | kühl-blaues Gegenlicht Fenster | BL-y am Fenster, Skyline; Perlenkette, Platinhaar – Anker zeigen |
 
 ### Block B2 · Verse 1 – Johnnys Welt (0:12–0:24 · 12,0 s · 6 Cuts à 2,0)
@@ -217,7 +217,7 @@ Zu jeder Location: 2–3 **Location-Plates** (leere Establishing-Render) als Gru
 | # | TC | s | Größe | Kamera | Licht | Motiv |
 |---|---|---|---|---|---|---|
 | S26 | 0:52.0–0:54.0 | 2.0 | MS | Studio-Ausgang, hinter JH auf den Stufen → statisch | Dämmerung, warmes Türlicht auf dem Gesicht | JH wartet, Tape in der Hand, Kippe wippt |
-| S27 | 0:54.0–0:56.0 | 2.0 | MLS | Ausgangstür frontal → Push-in | Straßenlaterne springt an (orange) | BL kommt raus: Camel-Coat, Bun unter Mütze – müde, hübsch |
+| S27 | 0:54.0–0:56.0 | 2.0 | MLS | Ausgangstür frontal → Push-in | Straßenlaterne springt an (orange) | BL kommt raus: Camel-Coat, Dutt unter Mütze – müde, hübsch |
 | S28 | 0:56.0–0:58.5 | 2.5 | MS 2-shot | seitlich, Bodenlevel zwischen beiden → langsamer Creep-in | Laterne links warm, Auto-Gegenlicht | Er reicht das Tape: „Side A – for you." Multi-Ref-Shot! |
 | S29 | 0:58.5–1:01.0 | 2.5 | CU | BL front → statisch (**S70 nutzt genau diesen Clip!**) | Laternenglanz Orange links | „Unsere Welten reimen sich nicht, Johnny." – Wendung |
 | S30 | 1:01.0–1:03.0 | 2.0 | EWS | gegenüberliegender Bürgersteig, statisch | Schwarzer Towncar, Scheinwerfer streifen ihn | Wagen rollt ab; JH allein, klein im Bild |
@@ -226,13 +226,13 @@ Zu jeder Location: 2–3 **Location-Plates** (leere Establishing-Render) als Gru
 | S33 | 1:07.0–1:11.0 | 4.0 | WS/MLS | Bowl, halbhoch, langsamer Arc um die Halfpipe | Natriumgelb hart, Regen als Silberglanz | Slow-Mo: JH schreit in die leere Bowl, Ollie in die Pfütze – Entladung |
 | S34 | 1:11.0–1:15.0 | 4.0 | WS | Regennahe Straße, low Tracking hinterher → Board spritzt durch Pfütze, Wasser auf Linse | nasse Reflexionen, Gegenlicht | Wegtreten aus der Demütigung, Dunkel unter der Überführung |
 
-### Block B5b · Atempause – Count-off (1:15–1:18.3 · 3,0 s · 1 Cut, exakt auf das Stille-Loch des Songs)
+### Block B5b · Atempause – Count-off (1:15–1:18.3 · 3,3 s · 1 Cut, exakt auf das Stille-Loch des Songs)
 
 | # | TC | s | Größe | Kamera | Licht | Motiv |
 |---|---|---|---|---|---|---|
-| S35 | 1:15.0–1:18.3 | 3.3→3,0 | MCU | Garage dunkel, BO am Kit frontal → Peitschen-Schwenk (Whip-Pan) auf JH am Mic | nur Amp-Glühfäden + Notlicht | BO haut den 4er-Count-off – **Band-Explosion exakt auf Song-Marke 78,3 s** |
+| S35 | 1:15.0–1:18.3 | 3.3 | MCU | Garage dunkel, BO am Kit frontal → Peitschen-Schwenk (Whip-Pan) auf JH am Mic | nur Amp-Glühfäden + Notlicht | BO haut den 4er-Count-off – **Band-Explosion exakt auf Song-Marke 78,3 s** |
 
-### Block B6 · Chorus 2 – Trotz (1:18.3–1:43 · 25,0 s · 12 Cuts: 11×2,0 + 1×3,0)
+### Block B6 · Chorus 2 – Trotz (1:18.3–1:43 · 24,7 s · 11 Cuts à 2,0 + 1×1,7)
 
 | # | TC | s | Größe | Kamera | Licht | Motiv |
 |---|---|---|---|---|---|---|
@@ -246,8 +246,8 @@ Zu jeder Location: 2–3 **Location-Plates** (leere Establishing-Render) als Gru
 | S43 | 1:33.3–1:35.3 | 2.0 | MS | Eltern-Wohnzimmer, Seitenansicht TV + JH → Push | CRT-Flackern blau auf den Rücken | lokales Nacht-Fernsehen: JH sieht seine eigene Band – grinst; MI grölt (TV-Motiv-Zündung!) |
 | S44 | 1:35.3–1:37.3 | 2.0 | ECU | Kommode frontal → statisch | warmes Leselicht seitlich | BL schiebt den Flyer in die Schublade – *behält* ihn (Contra-Herz) |
 | S45 | 1:37.3–1:39.3 | 2.0 | EWS | Bowl, Silhouette low, Boardkante im VG → Push-in | komplette Sonne, nur Rim | JH Silhouette mit Board – Ikarus-Pose |
-| S46 | 1:39.3–1:41.3 | 2.0 | MCU | Penthouse-Fenster, BL seitlich → Dolly-in | Gegenlicht Stadt, atmet Glas descriptions | BL belauscht ferne Bässe ans Glas – Brücke deutet sich an |
-| S47 | 1:41.3–1:43.0 | 2.0 | MS | Club-Eingang nacht, Gruppe im Rücken (Band + MI) → Push auf Neonspalt | nasse Straße, Neonspalt rot | Gang-Band geht rein, lachend – „wir gegen den Rest" (Coda-Übergang) |
+| S46 | 1:39.3–1:41.3 | 2.0 | MCU | Penthouse-Fenster, BL seitlich → Dolly-in | Gegenlicht Stadt, Glas atmet an | BL belauscht ferne Bässe – Brücke deutet sich an |
+| S47 | 1:41.3–1:43.0 | 1.7 | MS | Club-Eingang nacht, Gruppe im Rücken (Band + MI) → Push auf Neonspalt | nasse Straße, Neonspalt rot | Gang-Band geht rein, lachend – „wir gegen den Rest" (Coda-Übergang) |
 
 ### Block B7 · Coda – Aufstiegsmontage: seine Kurve vs. ihr Stillstand (1:43–2:08.6 · 25,6 s · 10 Cuts à 2,0 + 2 à 2,8)
 
@@ -291,7 +291,7 @@ Zu jeder Location: 2–3 **Location-Plates** (leere Establishing-Render) als Gru
 | S73 | 2:38.6–2:41.2 | 2.6 | Macro | Push **in** die Bildröhre, bis Phosphor-Pixel das Vollbild füllen | RGB-Pixelglühen | Matchcut-Vorbereitung (Pixel-Macro-Render oder Post-Zoom) |
 | S74 | 2:41.2–2:43.2 | 2.0 | MS | **identische Komposition/Color wie S73-Ende**, dann Pullback: Live-Room | warmes Studio-Tungsten, rote ON-AIR-Glühen | **Matchcut**: dieselbe Bildachse – jetzt echter JH-a, Gitarre im Anschlag |
 | S75 | 2:43.2–2:45.2 | 2.0 | MS | Control Room durchs Sprechfenster → statisch | Pult-LEDs + kühles Raumlicht | Producer Daumen hoch, Engineer; im Glas die rempelige Vorstadt-Silhouette? (nebensächlich) |
-| S76 | 2:45.2–2:47.2 | 2.0 | MCU | Vocal Booth, JH-a frontal am POP-Mikro → Push-in | warmer Topspot; Herz-Notizzettel-Karte im Bokeh | JH-a singt direkt in die Linse – Zeile „…for the girl…" |
+| S76 | 2:45.2–2:47.2 | 2.0 | MCU | Vocal Booth, JH-a frontal am POP-Mikro → Push-in | warmer Topspot; Herz-Notizzettel-Karte im Bokeh | JH-a singt direkt in die Linse (Ton = finaler Master) |
 
 ### Block B10 · Outro – Auf dem letzten Hit + Reverb-Tail (2:47.2–2:55 · 7,8 s · 3 Cuts)
 
@@ -321,7 +321,7 @@ Zu jeder Location: 2–3 **Location-Plates** (leere Establishing-Render) als Gru
 
 | Songteil | TC | Analysebefund | Video-Funktion |
 |---|---|---|---|
-| Intro | 0:00.0–0:12.0 | ruhiger Beginn, voller Band-Einsatz 5,6 s, ilk Level-Down 12,0 s | B1 Zwei Welten |
+| Intro | 0:00.0–0:12.0 | ruhiger Beginn, voller Band-Einsatz 5,6 s, erster Level-Abfall 12,0 s | B1 Zwei Welten |
 | Verse 1 | 0:12.0–0:24.0 | mittleres Level (≈ −16 dB) | B2 Johnnys Welt |
 | Pre | 0:24.0–0:30.0 | Anstieg | B3 Crush |
 | Chorus 1 | 0:30.0–0:52.0 | lautes Plateau (−13 … −14 dB) | B4 Parallelwelten |
@@ -333,74 +333,13 @@ Zu jeder Location: 2–3 **Location-Plates** (leere Establishing-Render) als Gru
 | Final Chorus | 2:22.6–2:47.2 | lauteste Stelle | B9 MTV-Erkennung + Matchcut |
 | Outro-Tail | 2:47.2–2:55.0 | finaler Hit, Reverb-/Fade-Out | B10 Blair allein / Studio + Titel |
 
-**Produktions_NOTIZ Text/Gesang:** Der finale Mix gilt als Master. Das Lyrics-Blatt (9.2) ist der Referenztext des Videos; falls die Aufnahme bereits finalen Gesang trägt, wird das On-Screen-Lyric-Video an den Gesang der Aufnahme angepasst (Silben-Feinjustage, sonst unverändert). Keine Nachversonung, kein Re-Timing des Songs – **das Video wird auf den Song geschnitten, nie umgekehrt.**
+**Produktionsnotiz Text/Gesang:** `songs/song3.mp3` ist **final und allein verbindlich**. Ein Lyrics-Blatt ist nicht mehr Teil dieses Exposés; es werden auch keine Lyrics-Overlays ins Video geschnitten. Kein Re-Timing, keine Nachvertonung – **das Video wird auf den Song geschnitten, nie umgekehrt.**
 
-### 9.2 Lyrics (EN, Pop-Punk-Idiom)
-
-**SKATERBOY**
-
-*(Intro – Gang-Chant)*
-Oh-oh-oh-oh! Oh-oh-oh-oh!
-
-*(Verse 1)*
-Kickers on the grip tape, sunset on the ramp,
-hallway full of hyenas in their varsity vamp,
-they throw their little names at me — I kick 'em down the street,
-got a pawn-shop Strat and a fire I can't beat.
-Spray-can psalms under the avenue bridge,
-garage-band thunder — for three chords I'm rich.
-
-*(Pre-Chorus)*
-And you're the sun in satin shoes,
-I'm the crack in the schoolyard moon.
-I wrote it on the label in red:
-“Side A — for the girl who'll never press play.”
-
-*(Chorus)*
-Skater Boy! — hands off the ground!
-Skater Boy! — louder than allowed!
-Shredding past your picket-fence sky,
-marble heart — watch me pass you by.
-One day I'm on your TV screen,
-singing for the girl who wouldn't look at me!
-Skater Boy! (Hey! Hey!)
-
-*(Verse 2)*
-Practice-room sunset, I brought my heart in a tape,
-two minutes thirty — the bravest I'll ever be brave.
-You said, “Baby, look, we don't rhyme, it's a fact:
-I'm marble, you're concrete.” — and you cut to the black.
-Rain on the long way home, four wheels through the rust,
-I took it downtown, let the empty halfpipe trust.
-
-*(Chorus 2 – identisch)*
-
-*(Bridge – halb gesprochen, Palm-Mute, „Radio"-Eq – exakt auf der leisesten Songstelle 2:08.6–2:22.6)*
-Yearbook pages… class of ninety-six.
-Sprinklers on. Ten years gone.
-Wedding ring. Quiet street.
-TV on for the company tonight.
-Then the static breaks — and there I am:
-white in my hair, ten times the amp,
-same kid. Same fire.
-And her pretty eyes go soft —
-guess marble's learning how to crack.
-
-*(Final Chorus – Peak, Gang-Vocals)*
-Skater Boy! — hands off the ground!
-… singing for the girl who wouldn't look at me — *(Ad-lib: „still does!")*
-Skater Boy! (Oh-oh!)
-
-*(Outro – auf dem Reverb-Tail)*
-Oh-oh-oh-oh …
-*(gesprochen, Close-Mic:)* „Hey Blair … side A's still yours."
-*(Feedback, Ride-Becken klingen aus bis 2:55)*
-
-### 9.3 Mapping Lyrics ↔ Timeline ↔ Blocks
+### 9.2 Songteil ↔ Block (Zuordnung)
 
 | Songteil | TC | Block | Funktion |
 |---|---|---|---|
-| Oh-oh-Intro | 0:00–0:12 | B1 (S01–S05) | beide Welten etablieren |
+| Intro | 0:00–0:12 | B1 (S01–S05) | beide Welten etablieren |
 | Verse 1 | 0:12–0:24 | B2 (S06–S11) | Johns Leben & Ausgrenzung |
 | Pre-Chorus | 0:24–0:30 | B3 (S12–S14) | Crush, Tape-Übergabe |
 | Chorus | 0:30–0:52 | B4 (S15–S25) | Parallelwelten-Ping-Pong |
@@ -410,11 +349,11 @@ Oh-oh-oh-oh …
 | Coda | 1:43–2:08.6 | B7 (S48–S59) | Aufstieg vs. Stillstand (Jahres-Montage) |
 | Bridge | 2:08.6–2:22.6 | B8 (S60–S64) | Zeitbruch, Vorstadt, TV an |
 | Final Chorus | 2:22.6–2:47.2 | B9 (S65–S76) | MTV-Erkennung, Matchcut ins Studio |
-| Outro + Dedication | 2:47.2–2:55 | B10 (S77–S79) | Blair allein / Band im Studio, Titel |
+| Outro | 2:47.2–2:55 | B10 (S77–S79) | Blair allein / Band im Studio, Titel |
 
-### 9.4 Sounddesign (über dem Master)
+### 9.3 Sounddesign (über dem Master)
 
-Diözesan leise unter dem Songtragwerk, synchrone Transienten-Akzente: Skate-Rollen (S02–S03, S34), Sprühdose (S10, S41), Meute-Murmeln (S08), Türfallen (S63), Fernbedienungs-Klick + CRT-Degaussing (S64 → S65), ON-AIR-Relais-Klicken (S79). Kein Sound vor dem Final-Hit, der den Mix zudeckt – alles ≤ −18 dBFS unter dem Song.
+Dezent, nur als dünne Ebene unter dem Song-Master liegend, synchrone Transienten-Akzente: Skate-Rollen (S02–S03, S34), Sprühdose (S10, S41), Meute-Murmeln (S08), Türfallen (S63), Fernbedienungs-Klick + CRT-Degaussing (S64 → S65), ON-AIR-Relais-Klicken (S79). Kein Sounddesign-Element darf den Final-Hit zudecken – alles ≤ −18 dBFS unter dem Song.
 
 ## 10. Produktions-Pipeline (lokale KI)
 
@@ -427,7 +366,7 @@ Diözesan leise unter dem Songtragwerk, synchrone Transienten-Akzente: Skate-Rol
 - **Gesicht/Konsistenz:** InstantID / IP-Adapter FaceID v2, FaceFusion (Nachschärfen), ReActor (Fallback).
 - **Interpolation/Upscale:** RIFE (16→24 fps), Real-ESRGAN ×2 (alternativ SeedVR2-lite für Gesichter).
 - **Lip-Sync (optional):** LatentSync nur für die Gesangs-Nahen S37, S76; schnelle Schnitte kaschieren sonst.
-- **Audio:** **fertig: `songs/song3.mp3`** – nur Conform (48 kHz → Projekt), Loudness-Master (Ziel −9 LUFS integ.), Sounddesign-Layer; Fallback-Nachvertonung/-Alternative mit ACE-Step nur, falls der Master verworfen wird.
+- **Audio:** **final: `songs/song3.mp3`** – nur Conform (48 kHz → Projekt), Loudness-Master (Ziel −9 LUFS integ.), Sounddesign-Layer; keine Gesangs-/Textproduktion mehr.
 - **Schnitt/Finish:** Kdenlive oder DaVinci Resolve (Color, Grain-LUT, CRT-Komposit, Typografie); Export ProRes → H.264.
 
 ### 10.2 Workflow-Reihenfolge
