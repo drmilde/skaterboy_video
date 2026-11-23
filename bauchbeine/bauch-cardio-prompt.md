@@ -1,0 +1,1 @@
+Upbeat German pop-rap and hip-house club track at 126 BPM with strong 90s Eurodance and house influences. Driven by a punchy four-on-the-floor kick drum, bouncy synth bass, and bright, energetic synthesizer chords. Features a confident, rhythmic female rapper delivering sharp verses and a super catchy, chant-like pop hook. Glossy, modern, radio-ready club production.
